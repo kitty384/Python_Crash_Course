@@ -1,0 +1,3 @@
+In python you can use class
+In python you can use data types
+In python you can model for questions
